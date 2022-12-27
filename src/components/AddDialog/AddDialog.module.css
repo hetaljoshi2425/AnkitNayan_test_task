@@ -1,0 +1,9 @@
+.content {
+  display: grid;
+  gap: 16px;
+  padding-top: 30px !important;
+}
+
+.select {
+  width: 100%;
+}
